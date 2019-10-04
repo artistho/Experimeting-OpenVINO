@@ -1,3 +1,4 @@
-# Tensorflow-Walkthroughs
-Learning and experimenting TF2.0.
+# Learning and experimenting w/ TF 2.0
+
+Tensorflow 2.0 walk-through.
 

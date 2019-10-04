@@ -1,2 +1,3 @@
-# Experimeting-OpenVINO
-Experimenting Intel OpenVINO using tf.
+# Tensorflow-Walkthroughs
+Learning and experimenting TF2.0.
+

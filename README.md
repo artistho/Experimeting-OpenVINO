@@ -1,4 +1,4 @@
-# Learning w/ Colab/Coral USB/Jetson Nano
+# Learning Deep Learning w/ Colab/Coral USB/Jetson Nano
 
 
 
